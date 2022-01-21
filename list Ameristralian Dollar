@@ -1,0 +1,9 @@
+{
+    "policyId": "asset1y7fe27agl6w8we4ysyd6jfu203wpnamljy9tea",
+    "name": "Ameristralian Dollar",
+    "symbol": "AMR",
+    "website": ,
+    "description": "Official currency of micronation The Sovereign Municipality of Ameristralia, used for goods and services and international trading,
+    "totalSupply": 10000000,
+    "amounts": [1, 10, 100, 1000, 10000]
+}
